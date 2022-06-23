@@ -30,4 +30,5 @@ namespace TOMICZ.TreeAI
 
             return _nodeState;
         }
+    }
 }
