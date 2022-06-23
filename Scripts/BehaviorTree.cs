@@ -4,7 +4,7 @@ namespace TOMICZ.TreeAI
 {
     public abstract class BehaviorTree : MonoBehaviour
     {
-        private Node _root = null;
+        protected Node _root = null;
 
         private void Start()
         {
